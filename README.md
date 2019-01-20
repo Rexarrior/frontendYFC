@@ -1,2 +1,3 @@
 # frontendYFC
-younger fighter cource in frontend (html+css + bootstrap+js+vue.js + webpack + vue-cli)
+"курс молодого бойца"(speedrun)  по фронтенду с использованием стека html+css+js+bootstrap+webpack+vue.js+vue-cli
+Создается на основании стека проекта Judyst.
