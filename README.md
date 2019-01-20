@@ -11,13 +11,13 @@
 
 Все практические задачи представляют собой разработку\переработку проекта "Телефонный справочник" под соответствующие теме технологии.
 
-Макет и требования к проекту можно найти в [этом файле](https://link)
+Макет и требования к проекту можно найти в [этом файле](https://github.com/Rexarrior/frontendYFC/blob/master/TT.pdf)
 
 Рекомендуется проходить темы последовательно, т.к. практическое задание в конце каждой темы построено с расчетом, что у Вас выполнено предыдущее. Единственное исключение - 3 и 4 тема, которые базируются на результатах 2. 3 тема может быть пропущена, но крайне рекомендуется ее изучить, это необходимо для лучшего понимания устройства vue-cli. 
 
 **Оглавление**
- 1. [База (html+css+js)]()
- 2. [bootstrap]()
- 3. [webpack]()
- 4. [vue.js]()
- 5. [vue-cli]()
+ 1. [База (html+css+js)](https://github.com/Rexarrior/frontendYFC/blob/master/base(html%2Bcss%2Bjs).md)
+ 2. [bootstrap](https://github.com/Rexarrior/frontendYFC/blob/master/bootstrap.md)
+ 3. [webpack](https://github.com/Rexarrior/frontendYFC/blob/master/webpack.md)
+ 4. [vue.js](https://github.com/Rexarrior/frontendYFC/blob/master/vue-js.md)
+ 5. [vue-cli](https://github.com/Rexarrior/frontendYFC/blob/master/vue-cli.md)
